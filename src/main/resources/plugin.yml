@@ -1,0 +1,4 @@
+name: sReports
+version: '${project.version}'
+main: org.snezhok69.sReports
+api-version: '1.16'
